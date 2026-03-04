@@ -1,0 +1,12 @@
+{
+  "name": "claude-slack-notifier",
+  "version": "1.0.0",
+  "description": "Slack notifications for Claude Code lifecycle events — permission prompts, idle, task complete, and errors",
+  "author": {
+    "name": "yoni197",
+    "url": "https://github.com/yoni197/claude-slack-notifier"
+  },
+  "license": "MIT",
+  "keywords": ["slack", "notifications", "hooks", "claude-code"],
+  "commands": ["./commands/slack-notifier-setup.md"]
+}

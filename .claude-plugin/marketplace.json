@@ -1,0 +1,22 @@
+{
+  "name": "claude-slack-notifier",
+  "owner": {
+    "name": "yoni197"
+  },
+  "metadata": {
+    "description": "Slack notifications for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "claude-slack-notifier",
+      "source": "./",
+      "description": "Get Slack notifications when Claude Code needs permission, finishes tasks, or waits for input. Automated setup via Slack Manifest API.",
+      "version": "1.0.0",
+      "author": {
+        "name": "yoni197"
+      },
+      "license": "MIT",
+      "keywords": ["slack", "notifications", "hooks", "alerts"]
+    }
+  ]
+}

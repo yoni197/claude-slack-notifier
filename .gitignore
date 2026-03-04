@@ -1,0 +1,15 @@
+# Slack configuration (contains secrets)
+slack-notifier.conf
+*.conf
+.env
+.env.*
+
+# Temp files
+/tmp/
+*.log
+
+# macOS
+.DS_Store
+
+# Node (if ever added)
+node_modules/
